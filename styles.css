@@ -4,6 +4,7 @@ background-color:blue;
 Display:flex;
     
 }
+#
 .navbar {
     background-color: brown;
     height: 50px;
@@ -41,8 +42,16 @@ Display:flex;
 .button{
 background:hover
 }
+
+padding-bottom: 2.5rem;  
   
   .social {
+      
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
     list-style: none;
     display: flex;
     flex-direction: row;
