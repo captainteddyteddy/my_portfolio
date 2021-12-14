@@ -47,8 +47,9 @@ background:hover
     list-style: none;
     display: flex;
     flex-direction: row;
-     position:fixed
-    justify-content: center;
+     position:fixed;
+         float:inherit;
+    justify-content: bottom;
      Bottom:10px;
   }
   .gallery {
