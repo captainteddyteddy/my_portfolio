@@ -47,8 +47,9 @@ background:hover
     list-style: none;
     display: flex;
     flex-direction: row;
-     
-    justify-content: left;
+     position:fixed
+    justify-content: center;
+     Bottom:10px;
   }
   .gallery {
     margin: 5px;
