@@ -72,3 +72,6 @@ background:hover
     padding: 15px;
     text-align: center;
   }  
+.copyright-info{
+    float:inherit;
+}
